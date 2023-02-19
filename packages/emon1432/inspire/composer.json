@@ -1,0 +1,18 @@
+{
+    "name": "emon1432/inspire",
+    "description": "daily quotation",
+    "autoload": {
+        "psr-4": {
+            "Emon1432\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khairul Islam Emon",
+            "email": "e.mon143298@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": " ^7.2"
+    }
+}
